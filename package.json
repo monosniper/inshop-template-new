@@ -1,0 +1,28 @@
+{
+  "name": "inshop-template-2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3002",
+    "build": "next build",
+    "start": "next start --port 4444",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.7.10",
+    "graphql": "^16.6.0",
+    "i18next": "^22.5.0",
+    "mobx": "^6.9.0",
+    "mobx-react": "^7.6.0",
+    "mobx-react-lite": "^3.4.3",
+    "next": "13.2.4",
+    "next-i18next": "^13.2.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.3.1",
+    "react-icons": "^4.9.0",
+    "react-select": "^5.7.3",
+    "sass": "^1.60.0",
+    "swiper": "^9.3.2"
+  }
+}
